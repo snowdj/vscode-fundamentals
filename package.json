@@ -82,7 +82,7 @@
     "typescript": "3.3.3",
     "webpack": "4.29.3",
     "webpack-bundle-analyzer": "3.0.4",
-    "webpack-cli": "3.2.3"
+    "webpack-cli": "3.3.10"
   },
   "release": {
     "extends": "@mike-works/workshop-semantic-release-config"
